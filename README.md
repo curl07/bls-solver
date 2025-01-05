@@ -1,82 +1,85 @@
+
+
 ![App Screenshot](https://raw.githubusercontent.com/curl07/hcaptcha-solver/refs/heads/main/captchasonic_bannar.png?raw=true)
 
-
-
-BLS CAPTCHA Solver
+#BLS CAPTCHA Solver
 
 Effortless solutions for CAPTCHA challenges
 
 🎯 What is BLS CAPTCHA Solver?
 
-BLS CAPTCHA Solver is a cutting-edge browser extension designed to automate CAPTCHA-solving tasks. Whether you're navigating CAPTCHA-protected websites or streamlining automation workflows, BLS CAPTCHA Solver enhances your productivity by removing the hassle of manual CAPTCHA input.
+BLS CAPTCHA Solver is a cutting-edge browser extension designed to automate CAPTCHA-solving tasks. Whether you're navigating CAPTCHA-protected websites or streamlining automation workflows, BLS CAPTCHA Solver enhances your productivity by removing the hassle of manual CAPTCHA input. 
 
-🌟 Key Features
+---
 
-AWSWAF OCR Integration: Handles complex CAPTCHAs seamlessly.
+### **🎯 What is CaptchaSonic AI?**  
+CaptchaSonic AI is an intelligent browser extension that automates CAPTCHA solving for effortless browsing. Whether you're navigating protected websites or integrating RPA workflows, CaptchaSonic AI removes roadblocks and boosts productivity.  
 
-AI-Powered Automation: Delivers quick and reliable CAPTCHA-solving with minimal human intervention.
+---
 
-User-Friendly Interface: Simple and intuitive design for a hassle-free experience.
+### **🌟 Key Features**  
+- **BLS OCR Integration:** Handles complex CAPTCHAs seamlessly.  
+- **AI-Powered Automation:** Solves CAPTCHAs with minimal human intervention.  
+ 
 
-🔧 How to Install BLS CAPTCHA Solver
+---
 
-For Chrome & Edge Users
+### **🔧 How to Install CaptchaSonic AI**  
 
-Visit the Chrome Web Store or Microsoft Edge Add-ons.
+#### **For Chrome & Edge Users**  
+1. Visit the **Chrome Web Store** or **Microsoft Edge Add-ons**.  
+2. Search for "**CaptchaSonic AI**" and click **Add to Browser**.  
+3. Access the extension from your browser toolbar after installation.  
 
-Search for "BLS CAPTCHA Solver" and click Add to Browser.
+#### **For Firefox Users**  
+1. Download the extension directly from [our website](https://captchasonic.com).  
+2. Go to **Menu > Add-ons > Extensions** in Firefox.  
+3. Upload the extension file, install it, and restart your browser.  
+---
 
-Access the extension from your browser toolbar once installed.
-
-For Firefox Users
-
-Download the extension from our website.
-
-Navigate to Menu > Add-ons > Extensions in Firefox.
-
-Upload the extension file, install it, and restart your browser.
-
-📌 Extension Interface
-
+### **📌 Extension Interface**
 ![App Screenshot](https://raw.githubusercontent.com/curl07/bls-solver/refs/heads/main/captchasonicextension.png?raw=true)
+### **⚡ Why Use CaptchaSonic AI?**  
+- **Save Time:** Automates CAPTCHA-solving tasks for RPA workflows and web automation.  
+- **Stay Productive:** Removes delays caused by CAPTCHA challenges.  
+- **Affordable Post-Beta Plans:** Enjoy premium solutions at competitive prices once beta ends.  
 
-⚡ Why Use BLS CAPTCHA Solver?
+---
 
-Boost Productivity: Eliminate CAPTCHA interruptions during workflows and web automation.
+### **💼 Pricing**  
+- **Beta Access:** Free for all users during testing.  
+- **Post-Beta Plans:** Stay tuned for budget-friendly options.  
 
-Save Time: Automates repetitive CAPTCHA-solving tasks.
+---
 
-Affordable Plans: Post-beta, enjoy premium features at budget-friendly prices.
+🌐 **Links**  
+- **[Homepage](https://captchasonic.com)** – Learn more about CaptchaSonic AI.  
+- **[Dashboard](https://my.captchasonic.com)** – Manage your settings and track usage.  
+- **[Pricing](https://my.captchasonic.com)** – Explore plans when available.  
+- **[Telegram Support](https://telegram.captchasonic.com)** – Connect with the community.  
+- **[Discord](https://discord.captchasonic.com)** – Join discussions and find help.  
 
-💼 Pricing
+---
 
-Beta Access: Free for all users during testing.
+💡**FAQ**  
 
-Post-Beta Plans: Affordable and accessible pricing options will be announced soon.
+1. **Is CaptchaSonic AI free?**  
+   Yes, it’s free to use during beta.  
 
-🌐 Links
+2. **What happens after beta ends?**  
+   Paid plans will be introduced, with affordable pricing for all users.  
 
-Homepage – Discover more about BLS CAPTCHA Solver.
+3. **Does CaptchaSonic work on all websites?**  
+   CaptchaSonic supports a wide range of CAPTCHA challenges, including AWSWAF and similar frameworks.  
 
-Dashboard – Manage settings and usage.
+4. **Can I request additional features?**  
+   Absolutely! We welcome feedback through [our website](https://captchasonic.com) or community channels.  
 
-Pricing – Explore plans as they become available.
+---
 
-Telegram Support – Connect with the community for support.
+📄 **License**  
+CaptchaSonic AI is distributed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.  
 
-Discord – Join discussions and access help.
+---
 
-💡FAQ
-
-Is BLS CAPTCHA Solver free?Yes, it’s free to use during the beta phase.
-
-What happens after beta ends?Paid plans will be introduced, offering affordable options for all users.
-
-Does BLS CAPTCHA Solver work on all websites?It supports a wide range of CAPTCHA challenges across various sites.
-
-Can I request additional features?Absolutely! Share your suggestions via our website or community channels.
-
-📄 LicenseBLS CAPTCHA Solver is distributed under the MIT License. See the LICENSE file for more details.
-
-Start using BLS CAPTCHA Solver today and leave CAPTCHA hassles behind!
-
+**Start using CaptchaSonic AI today and say goodbye to CAPTCHA frustrations forever!**
